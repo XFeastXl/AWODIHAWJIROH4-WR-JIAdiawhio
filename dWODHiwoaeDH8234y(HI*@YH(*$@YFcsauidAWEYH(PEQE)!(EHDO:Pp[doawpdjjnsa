@@ -1,5 +1,5 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XFeastXl/SosjriJj-wkK-3-1736-akwkLalqkwjz/main/DjejchBsudbzbu7wejj%2B2(2%2B%24*2(3%23%3B%24%3B%24%23(2("))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XFeastXl/SosjriJj-wkK-3-1736-akwkLalqkwjz/main/Whitelist"))()
 if isWhitelisted(game.Players.LocalPlayer) then
 
 -- Create a GUI with a large frame in the middle of the screen
